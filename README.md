@@ -16,8 +16,9 @@
 </a>
 
 ## Site para clínicias de fisioterapia e pilates :muscle:.
-Inicialmente cirado para [Certão](https://certao.com.br/index.asp).  
-A execução pode ser feita em [https://jairmaiag.github.io/certao-bootstrap/](https://jairmaiag.github.io/certao-bootstrap/)  
+Inicialmente cirado para <a href="https://certao.com.br/index.asp" alt="site oficial" target="_blank">Certão</a>  
+
+A execução pode ser feita em <a href="https://jairmaiag.github.io/certao-bootstrap/" alt="projeto" target="_blank">https://jairmaiag.github.io/certao-bootstrap/</a>  
 
 Aqui foi estudado o Bootstrap 4.6.1, JQuery 3 e [font-awesome 4.7.0](https://onface.github.io/font-awesome/) para os ícones.
 
