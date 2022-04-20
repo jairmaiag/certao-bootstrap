@@ -1,4 +1,4 @@
-# FISIOSUL :brazil:
+# CERTÃO :brazil:
 <a href="https://html.spec.whatwg.org/multipage/" alt="html5" target="_blank">
 <img src="https://img.shields.io/badge/HTML5-d84924?&logo=HTML5&logoColor=white&style=flat" />
 </a>  
@@ -16,8 +16,8 @@
 </a>
 
 ## Site para clínicias de fisioterapia e pilates :muscle:.
-Inicialmente cirado para [Fisiosul Joinville](http://www.fisiosuljoinville.com.br/).  
-A execução pode ser feita em [https://jairmaiag.github.io/fisiosul](https://jairmaiag.github.io/fisiosul/)  
+Inicialmente cirado para [Certão](https://certao.com.br/index.asp).  
+A execução pode ser feita em [https://jairmaiag.github.io/certao-bootstrap/](https://jairmaiag.github.io/certao-bootstrap/)  
 
 Aqui foi estudado o Bootstrap 4.6.1, JQuery 3 e [font-awesome 4.7.0](https://onface.github.io/font-awesome/) para os ícones.
 
@@ -29,5 +29,3 @@ Leitura de arquivos JSON para:
 * **Exibição das dicas.**
 
 Este pode conter formulários de pesquisas do Google forms.  
-
-Foi resolvido o problema do botão hamburger (em browser mobile), que quando clicado em uma das opções o mesmo não fechava.
